@@ -1,5 +1,5 @@
 {
-    "name": "odbav-to/presenter-route",
+    "name": "entrydo/rest-route",
     "description": "Route for Nette framework that supports single action presenters and HTTP methods.",
     "license": "MIT",
     "require": {
