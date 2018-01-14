@@ -1,4 +1,4 @@
-# OdbavTo\PresenterRoute
+# Entrydo\RestRoute
 Routes for Nette single action presenters with HTTP methods support.
 
 ## Install
@@ -15,7 +15,7 @@ And you are ready to go :-).
 
 ## Routes
 ```php
-use OdbavTo\PresenterRoute\Route;
+use Entrydo\RestRoute\Route;
 use Nette\Application\Routers\RouteList;
 
 $router = new RouteList();

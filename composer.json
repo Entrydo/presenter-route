@@ -15,12 +15,12 @@
     },
     "autoload": {
         "psr-4": {
-            "OdbavTo\\PresenterRoute\\": "src"
+            "Entrydo\\RestRoute\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "OdbavTo\\PresenterRoute\\Tests\\": "tests"
+            "Entrydo\\RestRoute\\Tests\\": "tests"
         }
     }
 }

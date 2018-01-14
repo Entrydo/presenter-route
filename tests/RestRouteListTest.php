@@ -1,7 +1,6 @@
-<?php
+<?php declare (strict_types=1);
 
-namespace OdbavTo\PresenterRoute\Tests;
-
+namespace Entrydo\RestRoute\Tests;
 
 use Nette\Http\IRequest;
 use Nette\Http\UrlScript;

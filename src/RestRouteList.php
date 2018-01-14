@@ -1,6 +1,6 @@
-<?php declare (strict_types = 1);
+<?php declare (strict_types=1);
 
-namespace OdbavTo\PresenterRoute;
+namespace Entrydo\RestRoute;
 
 use Nette;
 use Nette\Application\Request;

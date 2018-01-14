@@ -1,6 +1,6 @@
-<?php declare (strict_types = 1);
+<?php declare (strict_types=1);
 
-namespace OdbavTo\PresenterRoute\Tests;
+namespace Entrydo\RestRoute\Tests;
 
 use PHPUnit\Framework\TestCase;
 use OdbavTo\PresenterRoute\RestRoute;

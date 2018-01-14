@@ -2,7 +2,6 @@
 
 namespace OdbavTo\PresenterRoute;
 
-
 use Nette;
 use Nette\Application\IRouter;
 use Nette\Application\Request;
